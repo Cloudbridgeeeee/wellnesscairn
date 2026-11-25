@@ -333,7 +333,8 @@ function Redaction() {
 function Feedback() {
   const n = useClock(1500)
   const themes = L.slice(0, 4)
-  const comments = W.findings.evidence.map((e) => e.replace(/\{[^}]+\}/g, '…'))
+  // Labels after the first four are sample comments; otherwise fall back to the evidence templates.
+  const comments = L.length > 5 ? L.slice(4) : W.findings.evidence.map((e) => e.replace(/\{[^}]+\}/g, '…'))
   return (
     <Frame title="themes/clustering">
       <div className="relative h-24 overflow-hidden">
