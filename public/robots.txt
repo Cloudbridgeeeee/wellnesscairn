@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://wellnesscairn.top/sitemap.xml
+Sitemap: https://wellnesscairn.site/sitemap.xml

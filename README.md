@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for WellnessCairn.
 - Industry: SexTech, Ecommerce, Accessibility Technology
 - Founder: Oluwafemi Dosunmu (Founder & CEO)
 - Co-founder: Deborah Okonkwo (Co-founder & CTO)
-- Contact: oluwafemi@wellnesscairn.top
+- Contact: oluwafemi@wellnesscairn.site
 - Business model: Website-based subscriptions
 
 ## Stack
